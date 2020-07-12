@@ -1,8 +1,11 @@
 ### Hi there 👋
 This is Mahmud Ahsan, and welcome to my github profile. 
 
-- 🔭 I’m currently working in [Mefluence](https://www.mefluence.com/) as a senior lead software engineer.
+- 🔭 I’m currently working in [Mefluence](https://www.mefluence.com/) as a senior lead software engineer
 - 🌱 I’m currently learning mostly SwiftUI and native iOS Development
+- 📚 My favorite past time is reading books
+- 📷 My hobby is photography and you can download my photos free from [Unsplash](https://unsplash.com/@mahmudahsan)
+- 📫 You can reach me via [Twitter](https://twitter.com/mahmudahsan)
 
 Beside my full time work, 
 - I used to publish programming tutorials on my [Youtube Channel](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg)
