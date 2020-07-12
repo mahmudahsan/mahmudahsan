@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is Mahmud Ahsan, and welcome to my github profile. 
 
-- 🔭 I’m currently working in [Mefluence](https://www.mefluence.com/) as a lead software engineer.
+- 🔭 I’m currently working in [Mefluence](https://www.mefluence.com/) as a senior lead software engineer.
 - 🌱 I’m currently learning mostly SwiftUI and native iOS Development
 
 Beside my full time work, 
