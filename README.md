@@ -3,17 +3,17 @@ This is Mahmud Ahsan, and welcome to my github profile.
 
 - 🔭 I’m currently working in [Mefluence](https://www.mefluence.com/) as a senior lead software engineer
 - 🌱 I’m currently learning mostly SwiftUI and native iOS Development
-- 📚 My favorite past time is reading books
-- 📷 My hobby is photography and you can download my photos free from [Unsplash](https://unsplash.com/@mahmudahsan)
-- 📫 You can reach me via [Twitter](https://twitter.com/mahmudahsan)
+- 📚 My favorite past time is [reading books](https://www.amazon.com/shop/mahmudahsan)
+- 📷 My hobby is photography. Download my photos free from [Unsplash](https://unsplash.com/@mahmudahsan)
 
-Beside my full time work, 
-- I used to publish programming tutorials on my [Youtube Channel](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg)
-- I also write blog post on my website [Thinkdiff.net](http://thinkdiff.net)
-- Recently I also started my own podcast [Developer Coffee](https://anchor.fm/mahmud-ahsan)
-
-> I developed and maintain some personal mobile apps which downloaded over 13 Million times from App Store. 
-> You can check out my mobile applications from [iThinkdiff.net](https://ithinkdiff.net ) 
+#### More About Me
+- [Personal Mobile Apps](https://ithinkdiff.net/)
+- [Website](https://thinkdiff.net/)
+- [Podcasts](https://anchor.fm/mahmud-ahsan)
+- [Articles](https://medium.com/@mahmudahsan)
+- [Youtube](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg)
+- [Instagram](https://www.instagram.com/mahmudahsan/)
+- [LinkedIn](https://www.linkedin.com/in/mahmudahsan/)
 
 > You will get many of my free programming resource from this repo [Thinkdiff](https://github.com/mahmudahsan/thinkdiff)
 
