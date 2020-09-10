@@ -9,13 +9,19 @@ This is Mahmud Ahsan, and welcome to my github profile.
 #### More About Me
 - [Personal Mobile Apps](https://ithinkdiff.net/)
 - [Website](https://thinkdiff.net/)
+
 - [Podcasts](https://anchor.fm/mahmud-ahsan)
 - [Articles](https://medium.com/@mahmudahsan)
 - [Youtube](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg)
+
+- [SkillShare](https://www.skillshare.com/user/mahmudahsan)
+- [Udemy](https://www.udemy.com/user/mahmudahsan/)
+
 - [Instagram](https://www.instagram.com/mahmudahsan/)
 - [LinkedIn](https://www.linkedin.com/in/mahmudahsan/)
+- [Twitter](https://twitter.com/mahmudahsan)
 
-> You will get many of my free programming resource from this repo [Thinkdiff](https://github.com/mahmudahsan/thinkdiff)
+> Get many of my programming resources free from this repo [Thinkdiff](https://github.com/mahmudahsan/thinkdiff)
 
 <!--
 **mahmudahsan/mahmudahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
