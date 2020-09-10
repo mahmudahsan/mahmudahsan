@@ -7,19 +7,13 @@ This is Mahmud Ahsan, and welcome to my github profile.
 - 📷 My hobby is photography. Download my photos free from [Unsplash](https://unsplash.com/@mahmudahsan)
 
 #### More About Me
-- [Personal Mobile Apps](https://ithinkdiff.net/)
-- [Website](https://thinkdiff.net/)
+- [Personal Mobile Apps](https://ithinkdiff.net/) | [Website](https://thinkdiff.net/)
 
-- [Podcasts](https://anchor.fm/mahmud-ahsan)
-- [Articles](https://medium.com/@mahmudahsan)
-- [Youtube](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg)
+- [Podcasts](https://anchor.fm/mahmud-ahsan) | [Articles](https://medium.com/@mahmudahsan) | [Youtube](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg)
 
-- [SkillShare](https://www.skillshare.com/user/mahmudahsan)
-- [Udemy](https://www.udemy.com/user/mahmudahsan/)
+- [SkillShare](https://www.skillshare.com/user/mahmudahsan) | [Udemy](https://www.udemy.com/user/mahmudahsan/)
 
-- [Instagram](https://www.instagram.com/mahmudahsan/)
-- [LinkedIn](https://www.linkedin.com/in/mahmudahsan/)
-- [Twitter](https://twitter.com/mahmudahsan)
+- [Instagram](https://www.instagram.com/mahmudahsan/) | [LinkedIn](https://www.linkedin.com/in/mahmudahsan/) | [Twitter](https://twitter.com/mahmudahsan)
 
 > Get many of my programming resources free from this repo [Thinkdiff](https://github.com/mahmudahsan/thinkdiff)
 
