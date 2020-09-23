@@ -13,7 +13,7 @@ This is Mahmud Ahsan, and welcome to my github profile.
 
 - [SkillShare](https://www.skillshare.com/user/mahmudahsan) | [Udemy](https://www.udemy.com/user/mahmudahsan/)
 
-- [Instagram](https://www.instagram.com/mahmudahsan/) | [LinkedIn](https://www.linkedin.com/in/mahmudahsan/) | [Twitter](https://twitter.com/mahmudahsan)
+- [Twitter](https://twitter.com/mahmudahsan) | [LinkedIn](https://www.linkedin.com/in/mahmudahsan/)
 
 > Get many of my programming resources free from this repo [Thinkdiff](https://github.com/mahmudahsan/thinkdiff)
 
