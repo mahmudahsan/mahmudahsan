@@ -9,7 +9,7 @@ This is Mahmud Ahsan, and welcome to my github profile.
 #### More About Me
 - [Personal Mobile Apps](https://ithinkdiff.net/) | [Website](https://thinkdiff.net/)
 
-- [Podcasts](https://anchor.fm/mahmud-ahsan) | [Articles](https://medium.com/@mahmudahsan) | [Youtube](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg)
+- [Podcasts](https://anchor.fm/mahmud-ahsan) | [Medium Articles](https://medium.com/@mahmudahsan) | [Youtube](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg)
 
 - [SkillShare](https://www.skillshare.com/user/mahmudahsan) | [Udemy](https://www.udemy.com/user/mahmudahsan/)
 
