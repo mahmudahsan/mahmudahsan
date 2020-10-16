@@ -9,7 +9,7 @@ This is Mahmud Ahsan, and welcome to my github profile.
 #### More About Me
 - [Personal Mobile Apps](https://ithinkdiff.net/) | [Website](https://thinkdiff.net/)
 
-- [Podcasts](https://anchor.fm/mahmud-ahsan) | [Medium Articles](https://medium.com/@mahmudahsan) | [Youtube](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg)
+- [Podcasts](https://anchor.fm/mahmud-ahsan) | [Medium Articles](https://mahmudahsan.medium.com/) | [Youtube](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg)
 
 - [SkillShare](https://www.skillshare.com/user/mahmudahsan) | [Udemy](https://www.udemy.com/user/mahmudahsan/)
 
@@ -18,7 +18,7 @@ This is Mahmud Ahsan, and welcome to my github profile.
 > Get many of my programming resources free from this repo [Thinkdiff](https://github.com/mahmudahsan/thinkdiff)
 
 #### My noteworthy articles on [Medium](https://medium.com/@mahmudahsan)
-- [Flutter vs SwiftUI](https://medium.com/@mahmudahsan/flutter-vs-swiftui-43a564b35e4a)
+- [Flutter vs SwiftUI](https://mahmudahsan.medium.com/flutter-vs-swiftui-43a564b35e4a)
 - [How to Reverse Engineering an Android App](https://medium.com/swlh/how-to-reverse-engineering-an-android-app-be5835f6fa1e)
 - [How to Scrap Data from JavaScript-based Website Using Python, Selenium, and Headless Web Driver](https://medium.com/@mahmudahsan/how-to-scrap-data-from-javascript-based-website-using-python-selenium-and-headless-web-driver-531c7fe0c01f)
 
