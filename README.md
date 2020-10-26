@@ -20,7 +20,7 @@ This is Mahmud Ahsan, and welcome to my github profile.
 #### My noteworthy articles on [Medium](https://medium.com/level-up-programming)
 - [Flutter vs SwiftUI](https://medium.com/level-up-programming/flutter-vs-swiftui-43a564b35e4a)
 - [How to Reverse Engineering an Android App](https://medium.com/swlh/how-to-reverse-engineering-an-android-app-be5835f6fa1e)
-- [How to Scrap Data from JavaScript-based Website Using Python, Selenium, and Headless Web Driver](https://medium.com/level-up-programming/@mahmudahsan/how-to-scrap-data-from-javascript-based-website-using-python-selenium-and-headless-web-driver-531c7fe0c01f)
+- [How to Scrap Data from JavaScript-based Website Using Python, Selenium, and Headless Web Driver](https://medium.com/level-up-programming/how-to-scrap-data-from-javascript-based-website-using-python-selenium-and-headless-web-driver-531c7fe0c01f)
 
 <!--
 **mahmudahsan/mahmudahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
