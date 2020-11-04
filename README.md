@@ -3,10 +3,13 @@
 - [My Website](https://thinkdiff.net/)
 - [My Programming Tutorials](https://medium.com/level-up-programming) 
 
-### My Popular Articles on [Medium](https://medium.com/level-up-programming)
+### Python Tutorials
+- [How to Scrap Data from JavaScript-based Website Using Python, Selenium, and Headless Web Driver](https://medium.com/level-up-programming/how-to-scrap-data-from-javascript-based-website-using-python-selenium-and-headless-web-driver-531c7fe0c01f)
+- [How to Use Python SQLite3 Using SQLAlchemy](https://medium.com/level-up-programming/how-to-use-python-sqlite3-using-sqlalchemy-158f9c54eb32)
+
+### Mobile Apps Tutorials
 - [How to Reverse Engineering an Android App](https://medium.com/level-up-programming/how-to-reverse-engineering-an-android-app-be5835f6fa1e)
 - [How to Protect Android App From Reverse Engineering](https://medium.com/level-up-programming/how-to-protect-android-app-from-reverse-engineering-28cb7914c6f3)
-- [How to Scrap Data from JavaScript-based Website Using Python, Selenium, and Headless Web Driver](https://medium.com/level-up-programming/how-to-scrap-data-from-javascript-based-website-using-python-selenium-and-headless-web-driver-531c7fe0c01f)
 
 ### Compare
 - [Flutter vs SwiftUI](https://medium.com/level-up-programming/flutter-vs-swiftui-43a564b35e4a)
