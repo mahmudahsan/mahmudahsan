@@ -17,12 +17,12 @@
 - [Django and ReactJs: How I saved USD84 Per Year](https://medium.com/level-up-programming/how-i-saved-usd-84-per-year-by-switching-from-django-to-reactjs-dc282a0bfe7a)
 
 ### Flutter Tutorials
-- [Dart Programming Language for Programmers](https://medium.com/@mahmudahsan/dart-language-tutorial-for-programmers-e1ff2c8b7d86)
+- [Dart Programming Language for Programmers](https://medium.com/level-up-programming/dart-language-tutorial-for-programmers-e1ff2c8b7d86)
 - [Getting Started With Flutter– Create Your First Flutter App](https://medium.com/level-up-programming/getting-started-with-flutter-create-your-first-flutter-app-f6dea473f57d)
-- [Flutter Tutorial– Build an Expense App](https://medium.com/level-up-programming/flutter-tutorial-build-an-expense-app-4268ff945998?sk=3145e5ce55730003ed2c5dc0a3385774)
+- [Flutter Tutorial– Build an Expense App](https://medium.com/level-up-programming/flutter-tutorial-build-an-expense-app-4268ff945998)
 - [How to Use Provider in Flutter](https://medium.com/level-up-programming/how-to-use-provider-in-flutter-f4998acb4702)
-- [How to Use Redux in Flutter](https://medium.com/@mahmudahsan/how-to-use-redux-in-flutter-app-6299f69fadee)
-- [How to Use Bloc in Flutter to Manage State](https://medium.com/@mahmudahsan/how-to-use-bloc-in-flutter-to-manage-state-d0e66c0b47f1)
-- [How to Create, Validate and Save Form in Flutter](https://medium.com/@mahmudahsan/how-to-create-validate-and-save-form-in-flutter-e80b4d2a70a4)
+- [How to Use Redux in Flutter](https://medium.com/level-up-programming/how-to-use-redux-in-flutter-app-6299f69fadee)
+- [How to Use Bloc in Flutter to Manage State](https://medium.com/level-up-programming/how-to-use-bloc-in-flutter-to-manage-state-d0e66c0b47f1)
+- [How to Create, Validate and Save Form in Flutter](https://medium.com/level-up-programming/how-to-create-validate-and-save-form-in-flutter-e80b4d2a70a4)
 
 
