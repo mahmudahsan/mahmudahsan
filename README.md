@@ -20,3 +20,6 @@
 - [How to Use Redux in Flutter](https://medium.com/@mahmudahsan/how-to-use-redux-in-flutter-app-6299f69fadee)
 - [How to Use Bloc in Flutter to Manage State](https://medium.com/@mahmudahsan/how-to-use-bloc-in-flutter-to-manage-state-d0e66c0b47f1)
 - [How to Create, Validate and Save Form in Flutter](https://medium.com/@mahmudahsan/how-to-create-validate-and-save-form-in-flutter-e80b4d2a70a4)
+
+### Mixed
+- [Django and ReactJs: How I saved USD84 Per Year](https://medium.com/level-up-programming/how-i-saved-usd-84-per-year-by-switching-from-django-to-reactjs-dc282a0bfe7a)
