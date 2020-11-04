@@ -3,11 +3,14 @@
 - [My Website](https://thinkdiff.net/)
 - [My Programming Tutorials](https://medium.com/level-up-programming) 
 
-#### My Popular Articles on [Medium](https://medium.com/level-up-programming)
-- [Flutter vs SwiftUI](https://medium.com/level-up-programming/flutter-vs-swiftui-43a564b35e4a)
+### My Popular Articles on [Medium](https://medium.com/level-up-programming)
 - [How to Reverse Engineering an Android App](https://medium.com/level-up-programming/how-to-reverse-engineering-an-android-app-be5835f6fa1e)
 - [How to Protect Android App From Reverse Engineering](https://medium.com/level-up-programming/how-to-protect-android-app-from-reverse-engineering-28cb7914c6f3)
 - [How to Scrap Data from JavaScript-based Website Using Python, Selenium, and Headless Web Driver](https://medium.com/level-up-programming/how-to-scrap-data-from-javascript-based-website-using-python-selenium-and-headless-web-driver-531c7fe0c01f)
+
+### Compare
+- [Flutter vs SwiftUI](https://medium.com/level-up-programming/flutter-vs-swiftui-43a564b35e4a)
+- [React Native vs Flutter vs Swift vs Kotlin for Career in 2020](https://medium.com/level-up-programming/react-native-vs-flutter-vs-swift-vs-kotlin-for-career-in-2020-5481a9e16513)
 
 ### Flutter Tutorials
 - [Dart Programming Language for Programmers](https://medium.com/@mahmudahsan/dart-language-tutorial-for-programmers-e1ff2c8b7d86)
