@@ -11,9 +11,10 @@
 - [How to Reverse Engineering an Android App](https://medium.com/level-up-programming/how-to-reverse-engineering-an-android-app-be5835f6fa1e)
 - [How to Protect Android App From Reverse Engineering](https://medium.com/level-up-programming/how-to-protect-android-app-from-reverse-engineering-28cb7914c6f3)
 
-### Compare
+### Comparison
 - [Flutter vs SwiftUI](https://medium.com/level-up-programming/flutter-vs-swiftui-43a564b35e4a)
 - [React Native vs Flutter vs Swift vs Kotlin for Career in 2020](https://medium.com/level-up-programming/react-native-vs-flutter-vs-swift-vs-kotlin-for-career-in-2020-5481a9e16513)
+- [Django and ReactJs: How I saved USD84 Per Year](https://medium.com/level-up-programming/how-i-saved-usd-84-per-year-by-switching-from-django-to-reactjs-dc282a0bfe7a)
 
 ### Flutter Tutorials
 - [Dart Programming Language for Programmers](https://medium.com/@mahmudahsan/dart-language-tutorial-for-programmers-e1ff2c8b7d86)
@@ -24,5 +25,4 @@
 - [How to Use Bloc in Flutter to Manage State](https://medium.com/@mahmudahsan/how-to-use-bloc-in-flutter-to-manage-state-d0e66c0b47f1)
 - [How to Create, Validate and Save Form in Flutter](https://medium.com/@mahmudahsan/how-to-create-validate-and-save-form-in-flutter-e80b4d2a70a4)
 
-### Mixed
-- [Django and ReactJs: How I saved USD84 Per Year](https://medium.com/level-up-programming/how-i-saved-usd-84-per-year-by-switching-from-django-to-reactjs-dc282a0bfe7a)
+
