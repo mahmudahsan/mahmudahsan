@@ -25,4 +25,5 @@
 - [How to Use Bloc in Flutter to Manage State](https://medium.com/level-up-programming/how-to-use-bloc-in-flutter-to-manage-state-d0e66c0b47f1)
 - [How to Create, Validate and Save Form in Flutter](https://medium.com/level-up-programming/how-to-create-validate-and-save-form-in-flutter-e80b4d2a70a4)
 
-
+### Firebase
+- [How to Upload Files From Firebase Cloud Functions to Firebase Cloud Storage](https://medium.com/level-up-programming/how-to-upload-files-from-firebase-cloud-functions-to-firebase-cloud-storage-9d8b1a0f65e5)
