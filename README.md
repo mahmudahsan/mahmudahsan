@@ -2,6 +2,7 @@
 - [My Mobile Apps](https://ithinkdiff.net/)
 - [My Website](https://thinkdiff.net/)
 - [My Programming Tutorials](https://medium.com/level-up-programming) 
+- [Tool: Fix Your Medium Article's Title](https://titlecaseconverter.net/)
 
 ### Python Tutorials
 - [How to Scrap Data from JavaScript-based Website Using Python, Selenium, and Headless Web Driver](https://medium.com/level-up-programming/how-to-scrap-data-from-javascript-based-website-using-python-selenium-and-headless-web-driver-531c7fe0c01f)
