@@ -1,4 +1,7 @@
 ### Hi there 👋
+> For a long time was an [Indie developer](https://ithinkdiff.net/) and self-employed. Currently, I am a Co-Founder of [Mefluence LLC](https://www.mefluence.com/) and working there as a Senior Software Engineer. My responsibility includes native iOS app development and writing backend serverless JavaScript functions for the cloud. 
+
+
 - [My Mobile Apps](https://ithinkdiff.net/)
 - [My Website](https://thinkdiff.net/)
 - [My Programming Tutorials](https://medium.com/level-up-programming) 
