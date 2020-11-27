@@ -14,7 +14,6 @@
 ### Mobile Apps Tutorials
 - [How to Reverse Engineering an Android App](https://medium.com/level-up-programming/how-to-reverse-engineering-an-android-app-be5835f6fa1e)
 - [How to Protect Android App From Reverse Engineering](https://medium.com/level-up-programming/how-to-protect-android-app-from-reverse-engineering-28cb7914c6f3)
-- [How to Use Fastlane to Deploy iOS App Fast](https://medium.com/level-up-programming/how-to-use-fastlane-to-deploy-ios-app-fast-43346b15a618)
 
 ### Comparison
 - [Flutter vs SwiftUI](https://medium.com/level-up-programming/flutter-vs-swiftui-43a564b35e4a)
@@ -32,3 +31,13 @@
 
 ### Firebase
 - [How to Upload Files From Firebase Cloud Functions to Firebase Cloud Storage](https://medium.com/level-up-programming/how-to-upload-files-from-firebase-cloud-functions-to-firebase-cloud-storage-9d8b1a0f65e5)
+
+### Swift / SwiftUI
+- [How to Use Fastlane to Deploy iOS App Fast](https://medium.com/level-up-programming/how-to-use-fastlane-to-deploy-ios-app-fast-43346b15a618)
+- [How to Use iOS Concurrency Using GCD And Operation](https://medium.com/@mahmudahsan/ios-concurrency-using-gcd-and-operations-using-swift-brush-up-5adad60be440)
+- [SwiftUI Dark Mode — the Easiest Way](https://medium.com/level-up-programming/swiftui-dark-mode-the-easiest-way-81e48d055189)
+- [SwiftUI: How to Create Gradients](https://medium.com/@mahmudahsan/how-to-create-gradients-e5cdf60d05d9)
+- [How to Send Emails](https://medium.com/@mahmudahsan/how-to-send-email-in-swiftui-5a9047e3442f)
+- [How to Integrate SwiftUI With UIKit](https://medium.com/level-up-programming/how-to-integrate-swiftui-with-uikit-c71d96ed2a47)
+- [SwiftUI: How to Assign @State Property in an Initializer](https://medium.com/level-up-programming/swiftui-how-to-assign-state-variable-in-an-initializer-e40c33d4a3)
+- [How to Programmatically Navigate in SwiftUI](https://medium.com/@mahmudahsan/how-to-programmatically-navigate-in-swiftui-387b44254bc6)
