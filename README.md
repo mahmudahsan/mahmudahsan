@@ -41,3 +41,4 @@
 - [How to Integrate SwiftUI With UIKit](https://medium.com/level-up-programming/how-to-integrate-swiftui-with-uikit-c71d96ed2a47)
 - [SwiftUI: How to Assign @State Property in an Initializer](https://medium.com/level-up-programming/swiftui-how-to-assign-state-variable-in-an-initializer-e40c33d4a3)
 - [How to Programmatically Navigate in SwiftUI](https://medium.com/@mahmudahsan/how-to-programmatically-navigate-in-swiftui-387b44254bc6)
+- [iOS — How to Take Advantages of Multiple Schemes in XCode](https://levelupprogramming.net/ios-how-to-take-advantages-of-multiple-schemes-in-xcode-146db851e628)
