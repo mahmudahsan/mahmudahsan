@@ -1,5 +1,5 @@
 ### Hi there 👋
-> Over 8 years, I was an [Indie iOS developer](https://ithinkdiff.net/). Since 2020, I am a Co-Founder and Senior Software Engineer of [Mefluence LLC](https://www.mefluence.com/).
+Over 8 years, I was an [Indie iOS developer](https://ithinkdiff.net/). Since 2020, I am a Co-Founder and Senior Software Engineer of [Mefluence LLC](https://www.mefluence.com/).
 
 - [My Mobile Apps](https://ithinkdiff.net/)
 - [My Website](https://thinkdiff.net/)
