@@ -1,6 +1,4 @@
 ### Hi there 👋
-Over 8 years, I was an [Indie iOS developer](https://ithinkdiff.net/).<br />Since 2020, I am a Co-Founder and Senior Software Engineer of [Mefluence LLC](https://www.mefluence.com/).<br />It's an American company and I have been working remotely from Malaysia.
+I am a Bangladeshi computer programmer living in Malaysia. Currently, a lead software engineer working in [Mefluence](https://www.mefluence.com/) -- a U.S. based startup company. Before joining there, I was an [indie Mobile apps developer](https://ithinkdiff.net/) for over eight years. My indie apps downloaded over 15+ Million times from the Apple App Store and earned USD 500K+ revenue. 
 
-I love to share my knowledge through writing on **[thinkdiff.net](https://thinkdiff.net/)**<br />
-I write about ***Swift, iOS, Flutter, Python, JavaScript, Firebase, etc.***
-
+I regularly write technical articles on ✍️ **[thinkdiff.net](https://thinkdiff.net/)
