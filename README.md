@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am an Enterpreneur and Senior Lead Software Engineer at [Mefluence](https://www.mefluence.com/) (an American startup company).
-Before joining, I was an indie Mobile apps developer for over eight years. My indie apps downloaded 15+ Million times from the Apple App Store.
+I am a software engineering working full time in an American startup company. I primarily work in iOS app development, but sometimes I work as a full-stack developer.
 
-Check out:
-- My technical articles ✍️ [thinkdiff.net](https://thinkdiff.net/)
-- My [indie mobile apps](https://ithinkdiff.net)
-- My [YouTube channel](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg)
+✍️ My blog [thinkdiff.net](https://thinkdiff.net/)
+
+👨🏼‍💻 My mobile apps [ithinkdiff.net](https://ithinkdiff.net)
+
+📷 My [YouTube channel](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg)
