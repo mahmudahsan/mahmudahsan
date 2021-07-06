@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software engineering working full time in an American startup company. I primarily work in iOS app development, but sometimes I work as a full-stack developer.
+I am a software engineer working full-time in an American startup company. I primarily work in iOS app development, but sometimes I work as a full-stack developer.
 
 ✍️ My blog [thinkdiff.net](https://thinkdiff.net/)
 
