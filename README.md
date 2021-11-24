@@ -9,11 +9,11 @@
   <img align="left" alt="Mahmud's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
-<a href="https://thinkdiff.net/">👨🏼‍💻</a> ![](https://visitor-badge.glitch.me/badge?page_id=mahmudahsan.mahmudahsan)
+![](https://visitor-badge.glitch.me/badge?page_id=mahmudahsan.mahmudahsan)
 
 <br />
 
-Hi, I'm [Mahmud Ahsan](https://mahmudahsan.com), a mobile and backend developer from Bangladesh. My passion is developing software. I love reading, writing and taking photographs.
+Hi, I'm [Mahmud Ahsan](https://mahmudahsan.com), a mobile and backend developer from Bangladesh. My passion is developing software. I love reading, writing and taking photographs. During my spare time I write technical articles on [Medium](https://thinkdiff.net).
 
 
 💼 Contact with me: [email](mailto:mahmud@thinkdiff.net)
