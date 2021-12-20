@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm [Mahmud Ahsan](https://mahmudahsan.com), a mobile and backend developer from Bangladesh. My passion is developing software. I love reading, writing and taking photographs. During my spare time I write technical articles on [Medium](https://thinkdiff.net).
+Hi, I'm [Mahmud Ahsan](https://mahmudahsan.com), a mobile and backend developer from Bangladesh. My passion is developing software. I love <a href="https://www.amazon.com/shop/mahmudahsan?listId=3SVFYPJZ0L3OI">reading</a>, writing and taking <a href="https://unsplash.com/@mahmudahsan">photographs</a>. During my spare time I write technical articles on [Medium](https://thinkdiff.net).
 
 
 💼 Contact with me: [email](mailto:mahmud@thinkdiff.net)
