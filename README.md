@@ -1,13 +1,7 @@
 ### Hey there 👋
-<a href="https://twitter.com/mahmudahsan">
-  <img align="left" alt="Mahmud Ahsan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/mahmudahsan/">
-  <img align="left" alt="Mahmud's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.youtube.com/c/mahmudahsanthinkdiff">
-  <img align="left" alt="Mahmud's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
+<a href="https://twitter.com/mahmudahsan">Twitter</a>
+<a href="https://www.linkedin.com/in/mahmudahsan/">LinkedIn</a>
+<a href="https://www.youtube.com/c/mahmudahsanthinkdiff">YouTube</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mahmudahsan.mahmudahsan)
 
