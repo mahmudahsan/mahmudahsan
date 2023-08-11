@@ -7,6 +7,7 @@ Connect with me:
 - <a href="https://thinkdiff.net">Blog</a>
 - <a href="https://www.youtube.com/c/mahmudahsanthinkdiff">YouTube</a>
 - <a href="https://ithinkdiff.net">Personal Mobile Apps</a>
+- <a href="https://admob.google.com/home/resources/independent-app-developer-doubles-revenue-with-admob-mediation/">Google AdMob Article About Me</a>
 
 **Languages and Tools I Use:**  
 
