@@ -4,7 +4,9 @@ Hi, I'm [Mahmud Ahsan](https://mahmudahsan.com), a mobile and backend developer 
 Connect with me:
 - <a href="https://twitter.com/mahmudahsan">Twitter</a>
 - <a href="https://www.linkedin.com/in/mahmudahsan/">LinkedIn</a>
+- <a href="https://thinkdiff.net">Blog</a>
 - <a href="https://www.youtube.com/c/mahmudahsanthinkdiff">YouTube</a>
+- <a href="https://ithinkdiff.net">Personal Mobile Apps</a>
 
 **Languages and Tools I Use:**  
 
