@@ -1,16 +1,10 @@
 ### Hey there 👋
-<a href="https://twitter.com/mahmudahsan">Twitter</a>
-<a href="https://www.linkedin.com/in/mahmudahsan/">LinkedIn</a>
-<a href="https://www.youtube.com/c/mahmudahsanthinkdiff">YouTube</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=mahmudahsan.mahmudahsan)
-
-<br />
-
 Hi, I'm [Mahmud Ahsan](https://mahmudahsan.com), a mobile and backend developer from Bangladesh. My passion is developing software. I love <a href="https://www.amazon.com/shop/mahmudahsan?listId=3SVFYPJZ0L3OI">reading</a>, writing and taking <a href="https://unsplash.com/@mahmudahsan">photographs</a>. During my spare time I write technical articles on [Medium](https://thinkdiff.net) and often publish video tutorials on my [YouTube Channel](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg).
 
-
-💼 Contact with me: [email](mailto:mahmud@thinkdiff.net)
+Connect with me:
+- <a href="https://twitter.com/mahmudahsan">Twitter</a>
+- <a href="https://www.linkedin.com/in/mahmudahsan/">LinkedIn</a>
+- <a href="https://www.youtube.com/c/mahmudahsanthinkdiff">YouTube</a>
 
 **Languages and Tools I Use:**  
 
