@@ -1,5 +1,20 @@
-### Hey there 👋
-Hi, I'm [Mahmud Ahsan](https://mahmudahsan.com), a mobile and backend developer from Bangladesh. My passion is developing software. I love <a href="https://www.amazon.com/shop/mahmudahsan?listId=3SVFYPJZ0L3OI">reading</a>, writing and taking <a href="https://unsplash.com/@mahmudahsan">photographs</a>. During my spare time I write technical articles on [Medium](https://thinkdiff.net) and often publish video tutorials on my [YouTube Channel](https://www.youtube.com/channel/UCtHlgyUw0wLE5Ous9swfFlg).
+### Hi there, I’m [Mahmud Ahsan](https://mahmudahsan.com) 👋
+
+I’m a passionate full-stack developer from Bangladesh. My journey in software development began as a web developer, and I spent over eight years specializing in native iOS development. Since 2023, I’ve been dedicated to full-stack development with a focus on Node.js.
+
+My Current Skill Set:
+
+	•	Back-End: Node.js, TypeScript, Prisma ORM, PostgreSQL
+	•	Front-End: React.js, Next.js, TailwindCSS
+	•	Deployment & Services: Vercel, Cloudinary
+
+Previous Experience:
+
+	•	Languages & Frameworks: Swift, SwiftUI
+	•	Services: Firebase, Firestore
+	•	Mobile Development: iOS Development
+
+I thrive on building robust and scalable applications, continually exploring new technologies, and contributing to the developer community.
 
 Connect with me:
 - <a href="https://twitter.com/mahmudahsan">Twitter</a>
