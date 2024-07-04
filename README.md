@@ -4,15 +4,15 @@ I’m a passionate full-stack developer from Bangladesh. My journey in software 
 
 My Current Skill Set:
 
-	•	Back-End: Node.js, TypeScript, Prisma ORM, PostgreSQL
-	•	Front-End: React.js, Next.js, TailwindCSS
-	•	Deployment & Services: Vercel, Cloudinary
+	• Node.js, Next.js, TypeScript, Prisma ORM, PostgreSQL
+	• React.js, TailwindCSS
+	• Vercel, Cloudinary
 
 Previous Experience:
 
-	•	Languages & Frameworks: Swift, SwiftUI
-	•	Services: Firebase, Firestore
-	•	Mobile Development: iOS Development
+	• Swift, SwiftUI
+	• Firebase, Firestore
+	• iOS Development
 
 I thrive on building robust and scalable applications, continually exploring new technologies, and contributing to the developer community.
 
