@@ -2,7 +2,7 @@
 
 Serial entrepreneur and Full-Stack Developer passionate about crafting exceptional web and mobile experiences. With a strong foundation in Next.js, React, and TypeScript, I have co-founded three companies, leveraging my expertise to drive innovation and business growth. My professional journey includes full-time roles and extensive freelancing experience, allowing me to adapt quickly and deliver results in diverse environments.
 
-In my current role as Co-Founder of <a href="https://CheckWhatsgood.com" target="_blank">CheckWhatsgood.com</a>, I architected and developed the CheckWhatsGood web application from scratch. Utilizing Next.js, TypeScript, Prisma, PostgreSQL, and other cutting-edge technologies, I handled end-to-end development—encompassing both frontend and backend—resulting in a robust application now used by thousands of users.
+In my current role as a Co-Founder of <a href="https://CheckWhatsgood.com" target="_blank">CheckWhatsgood.com</a>, I architected and developed the CheckWhatsGood web application from scratch. Utilizing Next.js, TypeScript, Prisma, PostgreSQL, and other cutting-edge technologies, I handled end-to-end development—encompassing both frontend and backend—resulting in a robust application now used by thousands of users.
 
 Connect with me:
 - <a href="https://twitter.com/mahmudahsan">Twitter</a>
