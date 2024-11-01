@@ -14,7 +14,7 @@ Connect with me:
 **Publications About My Work:**
 - <a href="https://admob.google.com/home/resources/independent-app-developer-doubles-revenue-with-admob-mediation/">Google AdMob Article About My Indie Company</a>
 - <a href="https://www.wilmingtonbiz.com/wilmingtonbiz_magazine/2024/09/25/young_startups_get_to_the_good_stuff/25934">Young Startups: Get To The Good Stuff</a>
-- <a href="https://www.wilmingtonbiz.com/wilmingtonbiz_magazine/2024/09/25/young_startups_get_to_the_good_stuff/25934">Wilmington’s Check What’s Good Connects People To Local Events & Businesses</a>
+- <a href="https://grepbeat.com/2024/10/30/wilmingtons-check-whats-good-connects-people-to-local-events-businesses/">Wilmington’s Check What’s Good Connects People To Local Events & Businesses</a>
 
 **Languages and Tools I Use:**  
 
