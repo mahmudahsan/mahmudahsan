@@ -1,8 +1,6 @@
 ### Hi there, I’m [Mahmud Ahsan](https://mahmudahsan.com) 👋
 
-Serial entrepreneur and Full-Stack Developer specializing in Next.js, React, TypeScript, and iOS. Co-founded three companies and built products used by millions worldwide.
-
-Based in Malaysia, my indie mobile apps have reached 15+ Million downloads on the Apple App Store. Explore them at <a href="https://ithinkdiff.net">iThinkdiff.net</a>
+I build web products with Next.js and TypeScript, and ship iOS apps in Swift. Co-founder of three companies — with <a href="https://ithinkdiff.net">15M+ downloads on the App Store</a> and users around the world.
 
 Currently Co-Founder at <a href="https://CheckWhatsgood.com" target="_blank">CheckWhatsgood.com</a>, where I architected and developed the entire platform from scratch using Next.js, TypeScript, Prisma, and PostgreSQL—now serving thousands of users daily.
 
